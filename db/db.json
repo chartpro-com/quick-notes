@@ -1,5 +1,5 @@
 [
-  null,
+  1,
   {
     "title": "myTest",
     "text": "this is a test of my note taker app",
@@ -7,5 +7,10 @@
       "title": "Test Title",
       "text": "Test text"
     }
+  },
+  {
+    "title": "myTest",
+    "text": "testing out this app",
+    "id": null
   }
 ]
